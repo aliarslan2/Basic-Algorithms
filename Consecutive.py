@@ -1,8 +1,6 @@
-# -*- coding: utf-8 -*-
+
 """
 Created on Thu Aug 10 17:19:21 2023
-
-@author: arsla
 """
 # Returns the remaining number of numbers in order for the array to be in increasing order
 #For instance input: [4,8] otuput: 3  That is because we want tne remaining number of terms
